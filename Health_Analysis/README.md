@@ -19,6 +19,9 @@ To explore the relationships between age, BMI, blood pressure, smoking habits, a
 
   This pattern underscores the strong association between increasing age and diabetes risk.
 
+  ![Diabetes by Age](Charts/Diabetes_Prevalence.png)
+
+
 - ### **BMI Distribution by Diabetes Status**
 
   Box plot analysis was used to compare Body Mass Index (BMI) between individuals with and without diabetes:
@@ -32,6 +35,10 @@ To explore the relationships between age, BMI, blood pressure, smoking habits, a
     - Median BMI: around 32
 
   The findings show a higher BMI distribution among diabetic individuals, suggesting a strong correlation between obesity and diabetes prevalence.
+  
+ ![BMI Boxplot](Charts/BMI%20Distribution.png)
+
+
 
 - ### **Average Blood Pressure by Smoking Status**
 
@@ -44,6 +51,9 @@ To explore the relationships between age, BMI, blood pressure, smoking habits, a
   | Never          | ~120               | ~78                  |
 
   Results indicate slightly higher average blood pressure among individuals who currently smoke or have smoked in the past, compared to non-smokers.
+  
+  ![BP by Smoking Status](Charts/Smoking%20Status.png)
+
 
 - ### **Average Blood Pressure by Gender**
 
@@ -55,6 +65,8 @@ To explore the relationships between age, BMI, blood pressure, smoking habits, a
 
   - **Males**:  
     - Systolic and diastolic BP values were similar to those of females, with minimal variation observed.
+
+      ![BP by Gender](Charts/Gender.png)
 
 - ### **Diabetic Patients with Elevated Blood Pressure**
 
