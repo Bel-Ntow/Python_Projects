@@ -4,7 +4,7 @@ This project analyzes synthetic health data to understand patterns and risk fact
 
 ## Objective
 
-The goal of this project is to explore the relationships between age, BMI, blood pressure, smoking habits, and diabetes prevalence. The goal is to uncover insights that could support preventive healthcare strategies and early detection efforts.
+The goal of this project is to explore the relationships between age, BMI, blood pressure, smoking habits, and diabetes prevalence. It aims to uncover insights that could support preventive healthcare strategies and promote early detection.
 
 ## Key Insights
 - ### **Diabetes Prevalence by Age Group**
